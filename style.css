@@ -1,4 +1,4 @@
-#count{
+#countl{
     display: block;
     text-align: center;
     font-size: 10em;
@@ -18,4 +18,15 @@
 }
 .buttons:hover{
     background-color:chocolate;
+}
+
+a{
+    text-decoration: none;
+    color:darkcyan;
+}
+
+.back{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 2em;
 }
